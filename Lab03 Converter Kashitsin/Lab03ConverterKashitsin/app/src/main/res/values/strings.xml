@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab03-Converter Kashitsin</string>
+    <string name="but_convert">Конвертировать</string>
+    <string name="tv_from">Из:</string>
+    <string name="tv_to">В:</string>
+    <string name="tv_empty"> </string>
+    <string name="rb_dlina">Длина</string>
+    <string name="rb_ploshad">Площадь</string>
+    <string name="rb_massa">Масса</string>
+</resources>
